@@ -1,0 +1,1 @@
+java -cp ".;lib/sqlite-jdbc-3.32.3.2.jar" java_miniproject.LogIn
